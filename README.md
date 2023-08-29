@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/GDLMadushanka/count.svg)
+
+[![Lahiru's github stats](https://github-readme-stats.vercel.app/api?username=GDLMadushanka&count_private=true&show_icons=true&theme=algolia)](https://github.com/GDLMadushanka/github-readme-stats)	
+
 <!--
 **GDLMadushanka/GDLMadushanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
